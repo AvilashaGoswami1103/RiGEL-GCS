@@ -46,7 +46,7 @@ This project was developed as part of an internship focused on building a **comp
 
 The complete project report is available in:
 
-📄 `docs/RiGEL_GCS_Report.pdf`
+📄 `RiGEL_GCS_Report.pdf`
 
 It includes:
 
